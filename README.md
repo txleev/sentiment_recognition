@@ -46,7 +46,3 @@ The fine-tuned model achieved the following results on the validation set:
 | Sad | 76.8% |
 | Neutral | 70.7% |
 
-## Installation
-To run this project, install the required dependencies:
-```bash
-pip install ultralytics
